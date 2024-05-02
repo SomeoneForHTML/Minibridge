@@ -1,2 +1,7 @@
-We have finally put out the update for X11.
-Minibridge X11 and Up will automaticly update.
+Here's a guide to fix the "not found" bug on MiniBridge:
+
+1. Open the Files app on your iPhone or iPad.
+2. Navigate to "On My iPhone/iPad."
+3. Create a folder named "MiniBridge" and another named "MiniKey" if they don't exist already.
+4. Ensure that the MiniKey text file is empty, with no text in it.
+5. Once you've done this, try running MiniBridge again. This should resolve the "not found" issue.
